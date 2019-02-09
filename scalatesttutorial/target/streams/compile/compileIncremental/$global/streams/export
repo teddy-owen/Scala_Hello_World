@@ -1,0 +1,1 @@
+scalac -classpath /home/teddy/Documents/software_dev/Scala_Hello_World/scalatesttutorial/target/scala-2.12/classes -bootclasspath /home/teddy/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.7.jar /home/teddy/Documents/software_dev/Scala_Hello_World/scalatesttutorial/src/main/scala/CubeCalculator.scala
